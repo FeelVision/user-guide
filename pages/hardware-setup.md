@@ -2,9 +2,9 @@
 layout: page
 title: Hardware Setup
 subtitle: Configure your Luckfox Pico module
-previous: /pages/getting-started.html
+previous: /getting-started/
 previous_title: Getting Started
-next: /pages/app-installation.html
+next: /app-installation/
 next_title: App Installation
 toc: true
 ---
@@ -285,4 +285,4 @@ To update the Luckfox Pico firmware:
 
 ---
 
-**Next:** [App Installation Guide](/pages/app-installation.html)
+**Next:** [App Installation Guide](/app-installation/)

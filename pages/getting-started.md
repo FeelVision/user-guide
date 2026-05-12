@@ -4,7 +4,7 @@ title: Getting Started
 subtitle: Your first steps with FeelVision
 previous: /
 previous_title: Home
-next: /pages/hardware-setup.html
+next: /hardware-setup/
 next_title: Hardware Setup
 ---
 

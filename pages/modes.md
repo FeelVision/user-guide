@@ -2,9 +2,9 @@
 layout: page
 title: Modes
 subtitle: Explore all seven specialized modes
-previous: /pages/app-installation.html
+previous: /app-installation/
 previous_title: App Installation
-next: /pages/face-recognition.html
+next: /face-recognition/
 next_title: Face Recognition
 toc: true
 ---
@@ -492,4 +492,4 @@ Advanced users can customize AI prompts:
 
 ---
 
-**Next:** [Face Recognition Guide](/pages/face-recognition.html)
+**Next:** [Face Recognition Guide](/face-recognition/)

@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 subtitle: Frequently asked questions
-previous: /pages/troubleshooting.html
+previous: /troubleshooting/
 previous_title: Troubleshooting
 toc: true
 ---

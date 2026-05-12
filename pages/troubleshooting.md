@@ -2,9 +2,9 @@
 layout: page
 title: Troubleshooting
 subtitle: Solve common problems
-previous: /pages/face-recognition.html
+previous: /face-recognition/
 previous_title: Face Recognition
-next: /pages/faq.html
+next: /faq/
 next_title: FAQ
 toc: true
 ---
@@ -551,4 +551,4 @@ If you can't resolve the issue:
 
 ---
 
-**Next:** [FAQ](/pages/faq.html)
+**Next:** [FAQ](/faq/)

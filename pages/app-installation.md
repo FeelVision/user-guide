@@ -2,9 +2,9 @@
 layout: page
 title: App Installation
 subtitle: Install and configure the FeelVision Android app
-previous: /pages/hardware-setup.html
+previous: /hardware-setup/
 previous_title: Hardware Setup
-next: /pages/modes.html
+next: /modes/
 next_title: Modes
 toc: true
 ---
@@ -426,4 +426,4 @@ To backup your data:
 
 ---
 
-**Next:** [Modes Guide](/pages/modes.html)
+**Next:** [Modes Guide](/modes/)

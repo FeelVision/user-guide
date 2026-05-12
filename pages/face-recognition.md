@@ -2,9 +2,9 @@
 layout: page
 title: Face Recognition
 subtitle: Enroll and recognize people
-previous: /pages/modes.html
+previous: /modes/
 previous_title: Modes
-next: /pages/troubleshooting.html
+next: /troubleshooting/
 next_title: Troubleshooting
 toc: true
 ---
@@ -377,4 +377,4 @@ Person: John (brother)
 
 ---
 
-**Next:** [Troubleshooting Guide](/pages/troubleshooting.html)
+**Next:** [Troubleshooting Guide](/troubleshooting/)
