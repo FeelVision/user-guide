@@ -4,8 +4,8 @@
 title: FeelVision User Guide
 description: Comprehensive user guide for FeelVision smart glasses for visually impaired individuals
 author: FeelVision Team
-baseurl: "/user-guide" # Change this if your repo name is different
-url: "https://feelvision.github.io" # Change to your GitHub username
+baseurl: "/user-guide"
+url: "https://feelvision.github.io"
 
 # Build Settings
 markdown: kramdown
@@ -82,7 +82,7 @@ image:
 
 # Social Links (optional)
 social:
-  github: yourusername/feelvision
+  github: feelvision/user-guide
   twitter: feelvision
   email: support@feelvision.org
 
