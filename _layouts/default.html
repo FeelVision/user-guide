@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <a href="{{ '/' | relative_url }}" class="site-title">
+                    <i class="fas fa-glasses"></i>
+                    {{ site.title }}
+                </a>
+                <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-container">
+        <aside class="sidebar">
+            <nav class="site-nav">
+                <ul>
+                    {% for item in site.nav %}
+                    <li>
+                        <a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}active{% endif %}">
+                            {% if item.title == "Home" %}<i class="fas fa-home"></i>{% endif %}
+                            {% if item.title == "Getting Started" %}<i class="fas fa-rocket"></i>{% endif %}
+                            {% if item.title == "Hardware Setup" %}<i class="fas fa-microchip"></i>{% endif %}
+                            {% if item.title == "App Installation" %}<i class="fas fa-download"></i>{% endif %}
+                            {% if item.title == "Modes" %}<i class="fas fa-th-large"></i>{% endif %}
+                            {% if item.title == "Face Recognition" %}<i class="fas fa-user-friends"></i>{% endif %}
+                            {% if item.title == "Troubleshooting" %}<i class="fas fa-wrench"></i>{% endif %}
+                            {% if item.title == "FAQ" %}<i class="fas fa-question-circle"></i>{% endif %}
+                            {{ item.title }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="content">
+            <div class="container">
+                {% if page.title %}
+                <div class="page-header">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <p class="subtitle">{{ page.subtitle }}</p>
+                    {% endif %}
+                </div>
+                {% endif %}
+
+                <div class="page-content">
+                    {{ content }}
+                </div>
+
+                {% if page.toc %}
+                <div class="table-of-contents">
+                    <h3>Table of Contents</h3>
+                    {% toc %}
+                </div>
+                {% endif %}
+
+                <div class="page-navigation">
+                    {% if page.previous %}
+                    <a href="{{ page.previous | relative_url }}" class="nav-link prev">
+                        <i class="fas fa-arrow-left"></i>
+                        {{ page.previous_title }}
+                    </a>
+                    {% endif %}
+                    {% if page.next %}
+                    <a href="{{ page.next | relative_url }}" class="nav-link next">
+                        {{ page.next_title }}
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                    {% endif %}
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}. All rights reserved.</p>
+            <div class="social-links">
+                {% if site.social.github %}
+                <a href="https://github.com/{{ site.social.github }}" target="_blank" rel="noopener">
+                    <i class="fab fa-github"></i>
+                </a>
+                {% endif %}
+                {% if site.social.twitter %}
+                <a href="https://twitter.com/{{ site.social.twitter }}" target="_blank" rel="noopener">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                {% endif %}
+                {% if site.social.email %}
+                <a href="mailto:{{ site.social.email }}">
+                    <i class="fas fa-envelope"></i>
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </footer>
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            securityLevel: 'loose'
+        });
+    </script>
+</body>
+</html>

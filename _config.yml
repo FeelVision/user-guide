@@ -1,0 +1,92 @@
+# FeelVision User Guide - GitHub Pages Configuration
+
+# Site Settings
+title: FeelVision User Guide
+description: Comprehensive user guide for FeelVision smart glasses for visually impaired individuals
+author: FeelVision Team
+baseurl: "/user-guide" # Change this if your repo name is different
+url: "https://feelvision.github.io" # Change to your GitHub username
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: UTC
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Getting Started
+    url: /pages/getting-started.html
+  - title: Hardware Setup
+    url: /pages/hardware-setup.html
+  - title: App Installation
+    url: /pages/app-installation.html
+  - title: Modes
+    url: /pages/modes.html
+  - title: Face Recognition
+    url: /pages/face-recognition.html
+  - title: Troubleshooting
+    url: /pages/troubleshooting.html
+  - title: FAQ
+    url: /pages/faq.html
+
+# Table of Contents Settings
+toc:
+  min_level: 2
+  max_level: 4
+  ordered_list: false
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - .sass-cache/
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Image Settings
+image:
+  path: /assets/images
+  default: default.png
+
+# Social Links (optional)
+social:
+  github: yourusername/feelvision
+  twitter: feelvision
+  email: support@feelvision.org
+
+# Analytics (optional)
+analytics:
+  google:
+    tracking_id: UA-XXXXXXXXX-X
