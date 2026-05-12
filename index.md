@@ -17,7 +17,7 @@ FeelVision is an innovative smart glasses system designed to empower visually im
         </div>
         <h3>1. Install App</h3>
         <p>Download the FeelVision Android app from the Play Store or build from source.</p>
-        <a href="/pages/app-installation.html" class="card-link">Install Guide →</a>
+        <a href="/app-installation/" class="card-link">Install Guide →</a>
     </div>
 
     <div class="card">
@@ -26,7 +26,7 @@ FeelVision is an innovative smart glasses system designed to empower visually im
         </div>
         <h3>2. Connect Hardware</h3>
         <p>Attach the Luckfox Pico module to your glasses and connect via USB.</p>
-        <a href="/pages/hardware-setup.html" class="card-link">Setup Guide →</a>
+        <a href="/hardware-setup/" class="card-link">Setup Guide →</a>
     </div>
 
     <div class="card">
@@ -35,7 +35,7 @@ FeelVision is an innovative smart glasses system designed to empower visually im
         </div>
         <h3>3. Start Using</h3>
         <p>Press the capture button to hear descriptions of your surroundings.</p>
-        <a href="/pages/getting-started.html" class="card-link">Get Started →</a>
+        <a href="/getting-started/" class="card-link">Get Started →</a>
     </div>
 </div>
 
@@ -117,11 +117,11 @@ graph LR
 Ready to experience FeelVision? Follow our comprehensive guides to set up your device and start exploring the world with new confidence.
 
 <div class="cta-buttons">
-    <a href="/pages/getting-started.html" class="btn btn-primary">
+    <a href="/getting-started/" class="btn btn-primary">
         <i class="fas fa-rocket"></i>
         Get Started
     </a>
-    <a href="/pages/modes.html" class="btn btn-secondary">
+    <a href="/modes/" class="btn btn-secondary">
         <i class="fas fa-th-large"></i>
         Explore Modes
     </a>
@@ -131,7 +131,7 @@ Ready to experience FeelVision? Follow our comprehensive guides to set up your d
 
 ## Need Help?
 
-- Check our [Troubleshooting](/pages/troubleshooting.html) guide for common issues
-- Visit our [FAQ](/pages/faq.html) for frequently asked questions
+- Check our [Troubleshooting](/troubleshooting/) guide for common issues
+- Visit our [FAQ](/faq/) for frequently asked questions
 - Contact support- Email: support@feelvision.org
 - GitHub Issues: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)

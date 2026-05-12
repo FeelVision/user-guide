@@ -332,11 +332,14 @@ body {
 .card-link {
     color: var(--primary-color);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 0.5rem;
 }
 
 .card-link:hover {
     text-decoration: underline;
+    color: var(--primary-dark);
 }
 
 /* ===== CTA Buttons ===== */
