@@ -74,7 +74,7 @@ This guide covers installing and configuring the FeelVision Android application 
 
 #### Downloading the APK
 
-1. Visit the [releases page](https://github.com/yourusername/feelvision/releases)
+1. Visit the [releases page](https://github.com/feelvision/feelvision/releases)
 2. Download the latest APK file
 3. Save to your device's Downloads folder
 
@@ -104,7 +104,7 @@ This guide covers installing and configuring the FeelVision Android application 
 #### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/feelvision.git
+git clone https://github.com/feelvision/feelvision.git
 cd feelvision/Feelvision-Android
 ```
 

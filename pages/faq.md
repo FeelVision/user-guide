@@ -317,7 +317,7 @@ FeelVision respects your privacy:
 ### How do I get help?
 
 - **Email**: support@feelvision.org
-- **GitHub**: [github.com/yourusername/feelvision/issues](https://github.com/yourusername/feelvision/issues)
+- **GitHub**: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
 - **Forum**: community.feelvision.org
 - **Discord**: discord.gg/feelvision
 
@@ -331,7 +331,7 @@ Yes! Join our community at:
 ### How do I report a bug?
 
 Report bugs via:
-- GitHub Issues: [github.com/yourusername/feelvision/issues](https://github.com/yourusername/feelvision/issues)
+- GitHub Issues: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
 - Email: support@feelvision.org
 
 Include:

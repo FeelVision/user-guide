@@ -280,7 +280,7 @@ To update the Luckfox Pico firmware:
 ### Getting Help
 
 - Email: support@feelvision.org
-- GitHub Issues: [github.com/yourusername/feelvision/issues](https://github.com/yourusername/feelvision/issues)
+- GitHub Issues: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
 - Documentation: [docs.feelvision.org](https://docs.feelvision.org)
 
 ---

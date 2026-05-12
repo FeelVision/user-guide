@@ -534,7 +534,7 @@ If you can't resolve the issue:
 
 **Email**: support@feelvision.org
 
-**GitHub**: [github.com/yourusername/feelvision/issues](https://github.com/yourusername/feelvision/issues)
+**GitHub**: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
 
 **When contacting support, include**:
 - Device model and Android version

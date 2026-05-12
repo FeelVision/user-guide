@@ -26,7 +26,7 @@ FeelVision is a smart glasses system for visually impaired individuals. This use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/feelvision.git
+   git clone https://github.com/feelvision/feelvision.git
    cd feelvision/user-guide
    ```
 
@@ -173,6 +173,6 @@ For issues with the documentation:
 
 ## Resources
 
-- [FeelVision Main Repository](https://github.com/yourusername/feelvision)
+- [FeelVision Main Repository](https://github.com/feelvision/feelvision)
 - [FeelVision Website](https://feelvision.org)
 - [Community Forum](https://community.feelvision.org)

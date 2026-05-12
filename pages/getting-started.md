@@ -48,7 +48,7 @@ If you prefer to build the app from source:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/feelvision.git
+   git clone https://github.com/feelvision/feelvision.git
    cd feelvision/Feelvision-Android
    ```
 

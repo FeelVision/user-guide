@@ -133,4 +133,5 @@ Ready to experience FeelVision? Follow our comprehensive guides to set up your d
 
 - Check our [Troubleshooting](/pages/troubleshooting.html) guide for common issues
 - Visit our [FAQ](/pages/faq.html) for frequently asked questions
-- Contact support at [support@feelvision.org](mailto:support@feelvision.org)
+- Contact support- Email: support@feelvision.org
+- GitHub Issues: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
