@@ -18,30 +18,20 @@ This guide covers installing and configuring the FeelVision Android application 
 ### Minimum Requirements
 
 - **Android Version**: 7.0 (API 24) or higher
-- **RAM**: 2GB minimum, 4GB recommended
-- **Storage**: 1GB free space (500MB for models, 500MB for app)
-- **Camera**: Required rear-facing camera
+- **RAM**: 4GB minimum, 6GB recommended
+- **Storage**: 6GB free space (3 GB for models, 500MB for app)
+- **Camera**: Required rear-facing camera or Luckfox pico mini
 - **USB**: USB OTG support (for hardware connection)
 
-### Recommended Devices
-
-| Device Category | Examples | Notes |
-|----------------|----------|-------|
-| **Flagship** | Samsung Galaxy S21+, Pixel 6+, OnePlus 9+ | Best performance |
-| **Mid-range** | Samsung A-series, Pixel 5a, Redmi Note | Good performance |
-| **Budget** | Samsung A-series (older), Moto G | Basic functionality |
 
 ### Compatibility Notes
 
 - Android 6.0 and below: Not supported
-- Tablets: Supported but not optimized
-- Custom ROMs: May have compatibility issues
-- Rooted devices: Works but not required
 
 ## Installation Methods
 
 ### Method 1: Google Play Store (Recommended)
-
+#### In the future (app is not yet available on Play Store)
 #### Steps
 
 1. **Open Play Store**
@@ -70,29 +60,7 @@ This guide covers installing and configuring the FeelVision Android application 
 - **Microphone**: For future voice features (optional)
 - **Internet**: For initial model download only
 
-### Method 2: APK Installation
-
-#### Downloading the APK
-
-1. Visit the [releases page](https://github.com/feelvision/feelvision/releases)
-2. Download the latest APK file
-3. Save to your device's Downloads folder
-
-#### Enabling Unknown Sources
-
-1. Go to Settings → Security
-2. Enable "Unknown sources" or "Install unknown apps"
-3. Allow your file manager to install APKs
-
-#### Installing the APK
-
-1. Open your file manager
-2. Navigate to Downloads
-3. Tap the APK file
-4. Tap "Install"
-5. Wait for installation to complete
-
-### Method 3: Building from Source
+### Method 2: Building from Source
 
 #### Prerequisites
 
@@ -104,7 +72,7 @@ This guide covers installing and configuring the FeelVision Android application 
 #### Cloning the Repository
 
 ```bash
-git clone https://github.com/feelvision/feelvision.git
+git clone https://github.com/feelvision/feelvision-android.git
 cd feelvision/Feelvision-Android
 ```
 

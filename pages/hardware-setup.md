@@ -15,19 +15,19 @@ This guide covers the physical setup and configuration of the Luckfox Pico hardw
 
 ## Hardware Components
 
-### What's in the Box
+For Luckfox Firmware refer to https://github.com/FeelVision/Luckfox-firmware
 
-- Luckfox Pico module
-- Mounting bracket for glasses
-- USB cable (Type-C or Micro-USB)
-- Quick start guide
+BOM: Luckfox Pico Mini B, SC3336 Camera Module, Jumper wires, Soldering Iron, USB Type C to Type C Data cable.
+
+3D print the Hardware files from: https://github.com/FeelVision/Hardware-Design-Files
+
 
 ### Technical Specifications
 
 | Component | Specification |
 |-----------|---------------|
 | **SoC** | Rockchip RV1103/RV1106 |
-| **Camera** | 2304x1296 resolution, NV21 format |
+| **Camera** | SC3336 2304x1296 resolution, NV21 format |
 | **Storage** | SD Card or SPI NAND support |
 | **Connectivity** | USB Ethernet (CDC-ECM) |
 | **Buttons** | 3 GPIO-based buttons |
