@@ -14,9 +14,12 @@ For user documentation refer to https://feelvision.github.io/user-guide/
 
 For Luckfox Firmware refer to https://github.com/FeelVision/Luckfox-firmware
 
-BOM: Luckfox Pico Mini B, SC3336 Camera Module, Jumper wires, Soldering Iron, USB Type C to Type C Data cable.
+For Building Android App from source refer to https://github.com/FeelVision/Feelvision-Android/
 
 3D print the Hardware files from: https://github.com/FeelVision/Hardware-Design-Files
+
+BOM: Luckfox Pico Mini B, SC3336 Camera Module, Jumper wires, Soldering Iron, USB Type C to Type C Data cable.
+
 
 <img src="assets/images/setup/image1.png" width="100%" alt="App Preview 1" />
 <img src="assets/images/setup/image2.png" width="100%" alt="App Preview 2" />
