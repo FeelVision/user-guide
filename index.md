@@ -17,6 +17,13 @@ Our attachable hardware module works with your Android device to describe the wo
 <img src="assets/images/setup/image4.png" width="100%" alt="App Preview 4" />
 <img src="assets/images/setup/image5.png" width="100%" alt="App Preview 5" />
 
+
+## Hardware Design:
+
+
+<img src="assets/images/hardware/image1.jpeg" width="100%" alt="Hardware Preview 1" />
+<img src="assets/images/hardware/image2.jpeg" width="100%" alt="Hardware Preview 2" />
+
 ## Quick Start
 
 <div class="quick-start-cards">
