@@ -6,7 +6,9 @@ subtitle: Smart glasses for visually impaired individuals
 
 # Welcome to FeelVision
 
-FeelVision is an innovative smart glasses system designed to empower visually impaired individuals by providing real-time environmental awareness through AI-powered assistance. Our attachable hardware module works with your Android device to describe the world around you, read text, recognize faces, and help you navigate safely.
+FeelVision is smart glasses system designed to empower visually impaired individuals by providing real-time environmental awareness through AI-powered assistance. 
+
+Our attachable hardware module works with your Android device to describe the world around you, read text, recognize faces, and help you navigate safely.
 
 ## Quick Start
 
@@ -17,7 +19,7 @@ FeelVision is an innovative smart glasses system designed to empower visually im
         </div>
         <h3>1. Install App</h3>
         <p>Download the FeelVision Android app from the Play Store or build from source.</p>
-        <a href="/app-installation/" class="card-link">Install Guide →</a>
+        <a href="user-guide/app-installation/" class="card-link">Install Guide →</a>
     </div>
 
     <div class="card">
@@ -26,7 +28,7 @@ FeelVision is an innovative smart glasses system designed to empower visually im
         </div>
         <h3>2. Connect Hardware</h3>
         <p>Attach the Luckfox Pico module to your glasses and connect via USB.</p>
-        <a href="/hardware-setup/" class="card-link">Setup Guide →</a>
+        <a href="user-guide/hardware-setup/" class="card-link">Setup Guide →</a>
     </div>
 
     <div class="card">
@@ -35,7 +37,7 @@ FeelVision is an innovative smart glasses system designed to empower visually im
         </div>
         <h3>3. Start Using</h3>
         <p>Press the capture button to hear descriptions of your surroundings.</p>
-        <a href="/getting-started/" class="card-link">Get Started →</a>
+        <a href="user-guide/getting-started/" class="card-link">Get Started →</a>
     </div>
 </div>
 
