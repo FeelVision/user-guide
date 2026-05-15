@@ -10,6 +10,13 @@ FeelVision is smart glasses system designed to empower visually impaired individ
 
 Our attachable hardware module works with your Android device to describe the world around you, read text, recognize faces, and help you navigate safely.
 
+
+<img src="assets/images/setup/image1.png" width="100%" alt="App Preview 1" />
+<img src="assets/images/setup/image2.png" width="100%" alt="App Preview 2" />
+<img src="assets/images/setup/image3.png" width="100%" alt="App Preview 3" />
+<img src="assets/images/setup/image4.png" width="100%" alt="App Preview 4" />
+<img src="assets/images/setup/image5.png" width="100%" alt="App Preview 5" />
+
 ## Quick Start
 
 <div class="quick-start-cards">
