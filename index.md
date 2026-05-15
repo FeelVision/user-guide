@@ -10,13 +10,13 @@ FeelVision is smart glasses system designed to empower visually impaired individ
 
 Our attachable hardware module works with your Android device to describe the world around you, read text, recognize faces, and help you navigate safely.
 
-For user documentation refer to https://feelvision.github.io/user-guide/ 
+For user documentation refer to [User Guide](https://feelvision.github.io/user-guide/)
 
-For Luckfox Firmware refer to https://github.com/FeelVision/Luckfox-firmware
+For Luckfox Firmware refer to [Luckfox Feelvision Firmware](https://github.com/FeelVision/Luckfox-firmware)
 
-For Building Android App from source refer to https://github.com/FeelVision/Feelvision-Android/
+For Building Android App from source refer to [Feelvision Android](https://github.com/FeelVision/Feelvision-Android/) 
 
-3D print the Hardware files from: https://github.com/FeelVision/Hardware-Design-Files
+3D print the Hardware files from: [Hardware Design Files](https://github.com/FeelVision/Hardware-Design-Files)
 
 BOM: Luckfox Pico Mini B, SC3336 Camera Module, Jumper wires, Soldering Iron, USB Type C to Type C Data cable.
 
