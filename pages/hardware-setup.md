@@ -101,14 +101,8 @@ FeelVision is designed to work with most standard eyeglass frames. For best resu
 |--------|----------|------------------|
 | **A** | Top | Mode switch (next) |
 | **B** | Middle | Capture/Action |
-| **C** | Bottom | Configurable |
+| **C** | Bottom | Stop TTS |
 
-### Button Accessibility
-
-- Buttons are tactile with distinct shapes
-- Button A: Small circular button
-- Button B: Large oval button (primary)
-- Button C: Medium rectangular button
 
 ### Customizing Buttons
 
@@ -152,38 +146,6 @@ You can customize button functions in the app settings:
 | Intermittent connection | Check cable for damage |
 | No power to module | Ensure USB port provides power |
 | App doesn't recognize | Check USB device permissions |
-
-## Power Management
-
-### Power Sources
-
-The Luckfox Pico is powered via USB:
-
-- **Direct USB**: Connected to phone (uses phone battery)
-- **Power bank**: For extended use without draining phone
-- **Wall charger**: When stationary (e.g., at desk)
-
-### Battery Considerations
-
-- Module draws ~500mA when active
-- Phone battery impact: ~5-10% per hour of use
-- Consider a power bank for extended outings
-- Close the app when not in use to save power
-
-### Power-Saving Tips
-
-1. **Reduce Capture Frequency**
-   - Only capture when needed
-   - Use continuous modes sparingly
-
-2. **Optimize Settings**
-   - Disable debug mode
-   - Reduce screen brightness
-   - Use power-saving mode on phone
-
-3. **Manage Connection**
-   - Disconnect when not in use
-   - Use airplane mode if not needing network
 
 ## Camera Calibration
 
@@ -256,7 +218,6 @@ To update the Luckfox Pico firmware:
 
 ### Electrical Safety
 
-- Use only provided USB cable
 - Don't use damaged cables
 - Disconnect before cleaning
 - Don't expose to liquids
@@ -268,19 +229,10 @@ To update the Luckfox Pico firmware:
 - Avoid direct sunlight
 - Remove batteries if storing long-term
 
-## Warranty and Support
-
-### Warranty Coverage
-
-- 1-year limited warranty
-- Covers manufacturing defects
-- Does not cover physical damage
-- Contact support for claims
 
 ### Getting Help
 
-- Email: support@feelvision.org
-- GitHub Issues: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
+- GitHub Issues: [github.com/feelvision/feelvision-android/issues](https://github.com/feelvision/feelvision/issues)
 - Documentation: [docs.feelvision.org](https://docs.feelvision.org)
 
 ---
