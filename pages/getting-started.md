@@ -35,21 +35,14 @@ graph TD
 
 ## Step 1: Install the Android App
 
-### Option A: From Google Play Store
-
-1. Open the Google Play Store on your Android device
-2. Search for "FeelVision"
-3. Tap "Install"
-4. Wait for the installation to complete
-
-### Option B: Build from Source
+### Build from Source
 
 If you prefer to build the app from source:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/feelvision/feelvision.git
-   cd feelvision/Feelvision-Android
+   git clone https://github.com/feelvision/feelvision-android.git
+   cd Feelvision-Android
    ```
 
 2. Open the project in Android Studio
@@ -65,9 +58,9 @@ On first launch, the app will prompt you to download the AI models:
    - Storage permission
    - USB device permission
 3. The app will automatically download:
-   - Gemma AI model (~500MB)
-   - Face detection models (~50MB)
-   - Face recognition models (~20MB)
+   - Gemma AI model (~2.9GB)
+   - Face detection models
+   - Face recognition models
 
 **Note:** This download requires a stable internet connection. Once downloaded, the models work offline.
 
