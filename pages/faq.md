@@ -19,11 +19,7 @@ FeelVision is a smart glasses system for visually impaired individuals. It consi
 
 ### How much does FeelVision cost?
 
-The hardware module costs approximately $150-200 depending on the variant. The Android app is free to download. No subscription fees are required.
-
-### Is FeelVision available in my country?
-
-FeelVision ships worldwide. The app is available on Google Play Store globally. Check the shipping information on our website for specific country availability.
+The Module is Open source, you can buy the list of materials needed and 3D print the frame. In the near future, we may try to ship pre-built modules for a nominal price.
 
 ### Does FeelVision work with iOS?
 
@@ -53,15 +49,11 @@ No, the module is not waterproof. Avoid exposure to water, rain, or excessive mo
 
 ### How long does the battery last?
 
-The module is powered via USB from your phone. Battery life depends on your phone's battery, but expect 5-10% battery drain per hour of use. Consider a power bank for extended use.
+The module is powered via USB from your phone. Battery life depends on your phone's battery.
 
 ### Can I use the module with a tablet?
 
 Yes, the module works with any Android device that supports USB OTG and runs Android 7.0 or higher, including tablets.
-
-### What if I lose or break the module?
-
-Replacement modules can be purchased from our website. Contact support for warranty claims if the module is defective.
 
 ## Software Questions
 
@@ -69,13 +61,6 @@ Replacement modules can be purchased from our website. Contact support for warra
 
 FeelVision requires Android 7.0 (API 24) or higher. Android 10+ is recommended for best performance.
 
-### How much storage space does the app need?
-
-The app requires approximately 1GB of storage:
-- App: ~50MB
-- AI Models: ~500MB
-- Face data: Variable (typically 10-50MB)
-- Cache: ~100MB
 
 ### Do I need internet connection?
 
@@ -202,7 +187,7 @@ Yes, you can export all profiles from Settings → Backup → Export data. This 
 ### What AI models does FeelVision use?
 
 FeelVision uses:
-- **Gemma 4B**: For general AI inference
+- **Gemma 4**: For general AI inference
 - **MediaPipe Blaze Face**: For face detection
 - **MobileFaceNet**: For face recognition
 
@@ -316,40 +301,14 @@ FeelVision respects your privacy:
 
 ### How do I get help?
 
-- **Email**: support@feelvision.org
-- **GitHub**: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
-- **Forum**: community.feelvision.org
-- **Discord**: discord.gg/feelvision
+- **GitHub**: [github.com/feelvision/feelvision-android/issues](https://github.com/feelvision/feelvision-android/issues)
 
-### Is there a user community?
-
-Yes! Join our community at:
-- Forum: community.feelvision.org
-- Discord: discord.gg/feelvision
-- Reddit: r/feelvision
-
-### How do I report a bug?
-
-Report bugs via:
-- GitHub Issues: [github.com/feelvision/feelvision/issues](https://github.com/feelvision/feelvision/issues)
-- Email: support@feelvision.org
-
-Include:
-- Device model and Android version
-- App version
-- Steps to reproduce
-- Debug logs (if available)
 
 ### How do I request a feature?
 
 We welcome feature requests! Submit via:
 - GitHub Issues (label as "enhancement")
-- Community forum
-- Email to support@feelvision.org
 
-### Is there a warranty?
-
-Yes, the hardware module comes with a 1-year limited warranty covering manufacturing defects. Contact support for warranty claims.
 
 ## Future Development
 
@@ -357,10 +316,7 @@ Yes, the hardware module comes with a 1-year limited warranty covering manufactu
 
 Planned features include:
 - iOS support
-- Wireless connectivity (Bluetooth/Wi-Fi)
 - Emotion recognition
-- Age estimation
-- On-device learning for faces
 - More languages
 - More currencies
 - Advanced navigation features
@@ -374,13 +330,3 @@ Yes! Join our community and opt-in for beta testing in the app settings.
 We aim to release updates every 4-6 weeks with bug fixes and new features. Major updates may take longer.
 
 ---
-
-## Still Have Questions?
-
-If your question isn't answered here, please:
-
-1. Check the [documentation](/)
-2. Search our [community forum](https://community.feelvision.org)
-3. [Contact support](mailto:support@feelvision.org)
-
-We're here to help!
