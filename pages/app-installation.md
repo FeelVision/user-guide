@@ -142,11 +142,11 @@ When you first launch the app, you'll see:
 
 The app requires several AI models:
 
-| Model | Size | Purpose |
+| Model  | Purpose |
 |-------|------|---------|
-| Gemma 4B | ~500MB | General AI inference |
-| Blaze Face | ~25MB | Face detection |
-| MobileFaceNet | ~20MB | Face recognition |
+| Gemma 4B  | General AI inference |
+| Blaze Face  | Face detection |
+| MobileFaceNet  | Face recognition |
 
 #### Download Process
 
