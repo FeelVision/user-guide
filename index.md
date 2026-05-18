@@ -21,7 +21,7 @@ For Building Android App from source refer to [Feelvision Android](https://githu
 BOM: Luckfox Pico Mini B, SC3336 Camera Module, Jumper wires, Soldering Iron, USB Type C to Type C Data cable.
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/2uHmmJZTXpw"
+src="https://www.youtube.com/embed/1LbsFFNhAmQ"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
