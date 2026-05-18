@@ -20,6 +20,58 @@ For Building Android App from source refer to [Feelvision Android](https://githu
 
 BOM: Luckfox Pico Mini B, SC3336 Camera Module, Jumper wires, Soldering Iron, USB Type C to Type C Data cable.
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/2uHmmJZTXpw"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+# Demo Videos
+
+## Luckfox Demo
+
+<video width="640" controls>
+  <source src="/assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Navigation Mode
+
+<video width="640" controls>
+  <source src="/assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Navigation Android
+
+<video width="640" controls>
+  <source src="/assets/images/screenshots/navigation-android.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## OCR and Face Recognition Demo
+
+<video width="640" controls>
+  <source src="/assets/images/screenshots/ocr-face-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<img src="assets/images/screenshots/android_app_edu_mode.jpeg" width="100%" alt="App Preview 1" />
+<img src="assets/images/modes/android_app_settings.jpeg" width="100%" alt="App Preview 1" />
+<img src="assets/images/modes/smartglass_with_clipon_module.jpeg" width="100%" alt="App Preview 1" />
+
+<video width="640" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <img src="assets/images/setup/image1.png" width="100%" alt="App Preview 1" />
 <img src="assets/images/setup/image2.png" width="100%" alt="App Preview 2" />
