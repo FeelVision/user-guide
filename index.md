@@ -65,14 +65,7 @@ allowfullscreen>
 
 <div class="media-grid">
 
-  <div class="media-item">
-    <h3>Navigation Mode</h3>
-    <video controls>
-      <source src="assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
+  
   <div class="media-item">
     <h3>Navigation Android</h3>
     <video controls>
@@ -85,6 +78,14 @@ allowfullscreen>
     <h3>OCR and Face Recognition Demo</h3>
     <video controls>
       <source src="assets/images/screenshots/ocr-face-demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+<div class="media-item">
+    <h3>Navigation Mode</h3>
+    <video controls>
+      <source src="assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
