@@ -53,7 +53,7 @@ allowfullscreen>
 <div class="media-grid">
 
 <div class="media-item">
-    <h3>Navigation Mode</h3>
+    <h3>Education Mode</h3>
     <video controls>
   <source src="assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
