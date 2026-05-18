@@ -39,52 +39,98 @@ allowfullscreen>
 
 ---
 
-## Navigation Mode
-
-<video width="640" controls>
-  <source src="user-guide/assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-## Navigation Android
-
-<video width="640" controls>
-  <source src="user-guide/assets/images/screenshots/navigation-android.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-## OCR and Face Recognition Demo
-
-<video width="640" controls>
-  <source src="/assets/images/screenshots/ocr-face-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<img src="assets/images/screenshots/android_app_edu_mode.jpeg" width="100%" alt="App Preview 1" />
-<img src="assets/images/modes/android_app_settings.jpeg" width="100%" alt="App Preview 1" />
+## Smart Glasses with Clip on Module
 <img src="assets/images/modes/smartglass_with_clipon_module.jpeg" width="100%" alt="App Preview 1" />
 
-<video width="640" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<style>
+.media-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.media-item {
+  width: calc(50% - 10px);
+}
+
+.media-item video,
+.media-item img {
+  width: 100%;
+  border-radius: 8px;
+}
+</style>
+
+## Demos
+
+<div class="media-grid">
+
+  <div class="media-item">
+    <h3>Navigation Mode</h3>
+    <video controls>
+      <source src="user-guide/assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="media-item">
+    <h3>Navigation Android</h3>
+    <video controls>
+      <source src="user-guide/assets/images/screenshots/navigation-android.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="media-item">
+    <h3>OCR and Face Recognition Demo</h3>
+    <video controls>
+      <source src="/assets/images/screenshots/ocr-face-demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+
+---
+
+## Android App
+
+<div class="media-grid">
+
+  <div class="media-item">
+    <h3>Education Mode</h3>
+    <img src="assets/images/modes/android_app_edu_mode.jpeg" alt="Education Mode" />
+  </div>
+
+  <div class="media-item">
+    <h3>Settings Page</h3>
+    <img src="assets/images/modes/android_app_settings.jpeg" alt="Settings Page" />
+  </div>
+
+</div>
+
+---
+
+## Hardware Design
+
+<div class="media-grid">
+
+  <div class="media-item">
+    <img src="assets/images/hardware/image1.jpeg" alt="Hardware Preview 1" />
+  </div>
+
+  <div class="media-item">
+    <img src="assets/images/hardware/image2.jpeg" alt="Hardware Preview 2" />
+  </div>
+
+</div>
+## Introduction
 
 <img src="assets/images/setup/image1.png" width="100%" alt="App Preview 1" />
 <img src="assets/images/setup/image2.png" width="100%" alt="App Preview 2" />
 <img src="assets/images/setup/image3.png" width="100%" alt="App Preview 3" />
 <img src="assets/images/setup/image4.png" width="100%" alt="App Preview 4" />
 <img src="assets/images/setup/image5.png" width="100%" alt="App Preview 5" />
-
-
-## Hardware Design:
-
-
-<img src="assets/images/hardware/image1.jpeg" width="100%" alt="Hardware Preview 1" />
-<img src="assets/images/hardware/image2.jpeg" width="100%" alt="Hardware Preview 2" />
 
 ## Quick Start
 
