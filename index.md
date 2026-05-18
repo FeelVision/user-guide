@@ -33,7 +33,7 @@ allowfullscreen>
 ## Luckfox Demo
 
 <video width="640" controls>
-  <source src="/assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
+  <source src="user-guide/assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -42,7 +42,7 @@ allowfullscreen>
 ## Navigation Mode
 
 <video width="640" controls>
-  <source src="/assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
+  <source src="user-guide/assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -51,7 +51,7 @@ allowfullscreen>
 ## Navigation Android
 
 <video width="640" controls>
-  <source src="/assets/images/screenshots/navigation-android.mp4" type="video/mp4">
+  <source src="user-guide/assets/images/screenshots/navigation-android.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
