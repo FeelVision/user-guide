@@ -33,7 +33,7 @@ allowfullscreen>
 ## Luckfox Demo
 
 <video width="640" controls>
-  <source src="user-guide/assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
+  <source src="assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -68,7 +68,7 @@ allowfullscreen>
   <div class="media-item">
     <h3>Navigation Mode</h3>
     <video controls>
-      <source src="user-guide/assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
+      <source src="assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -76,7 +76,7 @@ allowfullscreen>
   <div class="media-item">
     <h3>Navigation Android</h3>
     <video controls>
-      <source src="user-guide/assets/images/screenshots/navigation-android.mp4" type="video/mp4">
+      <source src="assets/images/screenshots/navigation-android.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -84,7 +84,7 @@ allowfullscreen>
   <div class="media-item">
     <h3>OCR and Face Recognition Demo</h3>
     <video controls>
-      <source src="/assets/images/screenshots/ocr-face-demo.mp4" type="video/mp4">
+      <source src="assets/images/screenshots/ocr-face-demo.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
