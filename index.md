@@ -28,20 +28,6 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-# Demo Videos
-
-## Luckfox Demo
-
-<video width="640" controls>
-  <source src="assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-## Smart Glasses with Clip on Module
-<img src="assets/images/modes/smartglass_with_clipon_module.jpeg" width="100%" alt="App Preview 1" />
-
 
 <style>
 .media-grid {
@@ -60,6 +46,35 @@ allowfullscreen>
   border-radius: 8px;
 }
 </style>
+
+# Demo Videos
+
+## Luckfox Demo
+<div class="media-grid">
+
+<div class="media-item">
+    <h3>Navigation Mode</h3>
+    <video controls>
+  <source src="assets/images/screenshots/luckfox-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+    </video>
+  </div>
+
+
+<div class="media-item">
+    <h3>Navigation Mode</h3>
+    <video controls>
+      <source src="assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+---
+
+## Smart Glasses with Clip on Module
+<img src="assets/images/modes/smartglass_with_clipon_module.jpeg" width="100%" alt="App Preview 1" />
+
 
 ## Demos
 
@@ -82,13 +97,6 @@ allowfullscreen>
     </video>
   </div>
 
-<div class="media-item">
-    <h3>Navigation Mode</h3>
-    <video controls>
-      <source src="assets/images/screenshots/navigation-mode.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 
 </div>
 
