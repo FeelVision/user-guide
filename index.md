@@ -73,7 +73,7 @@ allowfullscreen>
 ---
 
 ## Smart Glasses with Clip on Module
-<img src="assets/images/modes/smartglass_with_clipon_module.jpeg" width="100%" alt="App Preview 1" />
+<img src="assets/images/modes/smartglass_with_clipon_module.jpeg" width="50%" alt="App Preview 1" />
 
 
 ## Demos
